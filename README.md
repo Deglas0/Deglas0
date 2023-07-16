@@ -8,4 +8,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deglas0&layout=compact&hide_border=true&title_color=F8F8FF&text_color=F8F8FF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Deglas0&bg_color=080808&color=fff5fe&line=ffffff&point=930140&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
